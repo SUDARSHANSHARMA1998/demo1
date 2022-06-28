@@ -1,13 +1,13 @@
 {
 	"info": {
 		"_postman_id": "6f92cc11-494c-41a2-b3ab-e593e750804b",
-		"name": "X2",
+		"name": "X2 changed",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "525986"
 	},
 	"item": [
 		{
-			"name": "New RequesSDFt",
+			"name": "New RequesSDFt chnaged",
 			"request": {
 				"method": "PUT",
 				"header": [],
