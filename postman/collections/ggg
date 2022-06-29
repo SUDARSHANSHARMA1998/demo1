@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Sample endpoint: Returns details about a particular user changes done ",
+			"name": "Sample endpoint: Returns details about a particular user changes done 2 ",
 			"request": {
 				"method": "GET",
 				"header": [
