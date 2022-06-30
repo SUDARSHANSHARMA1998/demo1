@@ -1,9 +1,18 @@
 {
 	"info": {
-		"_postman_id": "347f9ed3-c6ac-4dc6-b452-2ccf1160e1b9",
-		"name": "sdf",
+		"_postman_id": "4498be14-4133-41e4-9b38-4dcdec568050",
+		"name": "sdfdf",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "525986"
 	},
-	"item": []
+	"item": [
+		{
+			"name": "sdf",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
 }
